@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Chandra</h1>
-<h3 align="center">A passionate App developer</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 
 <img align="right" alt="coding" width=400 src="https://cdn.pixabay.com/photo/2016/09/08/04/12/programmer-1653351_960_720.png">
 <br>
